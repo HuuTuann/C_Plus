@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\nguyenhuutuan_9001\c_plus\ktgk_fc2\source.cpp(24): warning C4553: '==': result of expression not used; did you intend '='?
+  KTGK_FC2.vcxproj -> D:\NguyenHuuTuan_9001\C_Plus\KTGK_FC2\x64\Debug\KTGK_FC2.exe
